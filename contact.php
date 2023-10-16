@@ -1,4 +1,4 @@
-<body bgcolor="#CC9900">
+<body bgcolor="#CC9999">
     <table width="1238" height="530" border="0">
         <tr>
             <td width="23" rowspan="2">&nbsp;</td>
